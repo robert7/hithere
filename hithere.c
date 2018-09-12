@@ -3,7 +3,7 @@
 int main(int argc, char **argv)
 {
     if (argc == 1)
-        printf("hi there, world\n!");
+        printf("hi there, WORLD\n!");
     else {
         printf("hi there");
         for (int i = 1; i < argc; ++i)
