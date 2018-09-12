@@ -1,0 +1,72 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Java classes
+*.class
+
+# dump logs
+*.log
+core
+ 
+# Deb/RPM/tar files
+*.tar.gz
+*.deb
+*.rpm
+ 
+# moc_* files
+moc_*.*
+qrc_*.*
+
+# autosave files
+*.autosave
+
+# Vim backup files
+*~
+
+# Makefiles
+Makefile*
+
+# user files
+*.pro.*
+
+# compiled translations
+translations/*.qm
+
+# Makefiles
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# KDE workfile
+.directory
+/.project
+
+# eclipse files
+.cproject
+.settings
+
+cmake-build-debug/
+qmake-build-debug/
+qmake-build-release/
+build/
+
+# idea
+.idea/workspace.xml
+.idea/misc.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/watcherTasks.xml
+
+# QMake file
+debian/hithere
+hithere
